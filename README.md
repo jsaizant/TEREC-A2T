@@ -6,7 +6,7 @@ The textual entailment models are from the [Ask2Transformers framework](https://
 
 ## Paper poster 
 
-This poster was presented at the Faculty of Informatics of the University of the Basque Country on June 3rd 2022 as a final project for the Language Analysis and Processing Master's degree. 
+This poster was presented at the Faculty of Informatics of the University of the Basque Country (UPV/ EHU) on June 3rd 2022 as a final project for the Language Analysis and Processing Master's degree. 
 
 ![TEREC_Poster](https://user-images.githubusercontent.com/74248167/172026092-af504adf-45ac-4212-b244-54b7a27b3417.png)
 
