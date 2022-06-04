@@ -1,5 +1,5 @@
 # TEREC-A2T: Temporal Relation classification in the Clinical domain with Ask2Transformers framework.
-This repository contains the code for the zero-shot evaluation of textual entailment models on temporal relation classification in the clinical domain. The textual entailment models are from the [Ask2Transformers framework]{https://github.com/osainz59/Ask2Transformers} (Sainz, 2021b) and the code is based on the work from Sainz et al. (2021b). 
+This repository contains the code for the zero-shot evaluation of textual entailment models on temporal relation classification in the clinical domain. The textual entailment models are from the [Ask2Transformers framework](https://github.com/osainz59/Ask2Transformers) (Sainz, 2021b) and the code is based on the work from Sainz et al. (2021b). 
 
 # Citation
 
