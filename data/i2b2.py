@@ -1,3 +1,5 @@
+%pip install a2t
+
 # Import data libraries
 import os
 import re
@@ -6,7 +8,6 @@ from lxml import etree
 from typing import List
 from a2t.data import Dataset
 from a2t.tasks import BinaryTask, BinaryFeatures
-from a2t.tasks import RelationClassificationTask, RelationClassificationFeatures
 
 class i2b2TemporalRelationDataset(Dataset):
   """A class to handle the i2b2 2012 Temporal Relations dataset.
@@ -159,7 +160,6 @@ class i2b2TemporalRelationDataset(Dataset):
           else:
             continue
         # Set context threshold
-        #print(f"{max(sentHeadTail)+1} - {min(sentHeadTail)}= {max(sentHeadTail)+1 - min(sentHeadTail)} ")
         if max(sentHeadTail)+1 - min(sentHeadTail) >= 10:
           pass
         else:
@@ -178,8 +178,6 @@ class i2b2TemporalRelationDataset(Dataset):
                             1.0])
           # Get relations
           relations = [[0, 1, rel["type"]]]
-
-          #print(relID, entHeadTail, sentHeadTail, headList[0],"-", tailList[0],":", sentence)
       
           instanceList.append({ # Each 'instance' dictionary contains only one relation and two entities
               'docID' : docID, # Document ID where the sentence comes from
