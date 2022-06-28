@@ -3,7 +3,7 @@
   
 This repository contains the code for our zero-shot evaluation of A2T textual entailment models on temporal relation classification in clinical domain documents. 
 
-The textual entailment models are from the [Ask2Transformers framework](https://github.com/osainz59/Ask2Transformers) (Sainz, 2021b) and the code is based on the work from Sainz et al. (2021b). The corpus was retrieved from the [i2b2 2012 Temporal Relations Task](https://portal.dbmi.hms.harvard.edu/) (Sun, 2013).
+The textual entailment models are from the [Ask2Transformers framework](https://github.com/osainz59/Ask2Transformers) (Sainz, 2021b) and the code is based on the work from Sainz et al. (2021a). The corpus was retrieved from the [i2b2 2012 Temporal Relations Task](https://portal.dbmi.hms.harvard.edu/) (Sun, 2013).
 
 ## Paper poster 
 
