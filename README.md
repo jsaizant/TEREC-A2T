@@ -18,3 +18,7 @@ Sainz, O., Lopez de Lacalle, O., Labaka, G., Barrena, A., & Agirre, E. (2021a). 
 Sainz, O., & Rigau, G. (2021b). Ask2Transformers: Zero-Shot Domain labelling with Pre-trained Language Models (Version 2). arXiv. https://doi.org/10.48550/ARXIV.2101.02661
 
 Sun, W., Rumshisky, A., & Uzuner, O. (2013). Evaluating temporal relations in clinical text: 2012 i2b2 Challenge. In Journal of the American Medical Informatics Association (Vol. 20, Issue 5, pp. 806–813). Oxford University Press (OUP). https://doi.org/10.1136/amiajnl-2013-001628
+
+## License
+
+ETEREC-A2T is licensed under the CC BY-SA-NC 4.0 license. The text of the license can be found [here](https://github.com/jsaizant/TEREC-A2T/blob/main/LICENSE.md).
